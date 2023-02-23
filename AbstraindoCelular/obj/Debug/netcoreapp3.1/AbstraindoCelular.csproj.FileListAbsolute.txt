@@ -1,0 +1,14 @@
+C:\Users\Localize\source\repos\AbstraindoCelular\AbstraindoCelular\bin\Debug\netcoreapp3.1\AbstraindoCelular.exe
+C:\Users\Localize\source\repos\AbstraindoCelular\AbstraindoCelular\bin\Debug\netcoreapp3.1\AbstraindoCelular.deps.json
+C:\Users\Localize\source\repos\AbstraindoCelular\AbstraindoCelular\bin\Debug\netcoreapp3.1\AbstraindoCelular.runtimeconfig.json
+C:\Users\Localize\source\repos\AbstraindoCelular\AbstraindoCelular\bin\Debug\netcoreapp3.1\AbstraindoCelular.runtimeconfig.dev.json
+C:\Users\Localize\source\repos\AbstraindoCelular\AbstraindoCelular\bin\Debug\netcoreapp3.1\AbstraindoCelular.dll
+C:\Users\Localize\source\repos\AbstraindoCelular\AbstraindoCelular\bin\Debug\netcoreapp3.1\AbstraindoCelular.pdb
+C:\Users\Localize\source\repos\AbstraindoCelular\AbstraindoCelular\obj\Debug\netcoreapp3.1\AbstraindoCelular.csproj.AssemblyReference.cache
+C:\Users\Localize\source\repos\AbstraindoCelular\AbstraindoCelular\obj\Debug\netcoreapp3.1\AbstraindoCelular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Localize\source\repos\AbstraindoCelular\AbstraindoCelular\obj\Debug\netcoreapp3.1\AbstraindoCelular.AssemblyInfoInputs.cache
+C:\Users\Localize\source\repos\AbstraindoCelular\AbstraindoCelular\obj\Debug\netcoreapp3.1\AbstraindoCelular.AssemblyInfo.cs
+C:\Users\Localize\source\repos\AbstraindoCelular\AbstraindoCelular\obj\Debug\netcoreapp3.1\AbstraindoCelular.csproj.CoreCompileInputs.cache
+C:\Users\Localize\source\repos\AbstraindoCelular\AbstraindoCelular\obj\Debug\netcoreapp3.1\AbstraindoCelular.dll
+C:\Users\Localize\source\repos\AbstraindoCelular\AbstraindoCelular\obj\Debug\netcoreapp3.1\AbstraindoCelular.pdb
+C:\Users\Localize\source\repos\AbstraindoCelular\AbstraindoCelular\obj\Debug\netcoreapp3.1\AbstraindoCelular.genruntimeconfig.cache
